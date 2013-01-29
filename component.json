@@ -1,12 +1,10 @@
 {
   "name": "handlebars",
   "repo": "kelonye/handlebars",
-  "version": "1.0.rc.1",
-  "description": "Handlebars provides the power necessary to let you build semantic templates effectively with no frustration.",
+  "version": "1.0.rc.2",
+  "description": "Handlebars.js component",
   "keywords": [
-    "handlebars",
-    "handlebarsjs",
-    "handlebars.js"
+    "handlebars"
   ],
   "scripts":[
     "index.js"
