@@ -1,7 +1,7 @@
 {
   "name": "handlebars",
-  "repo": "kelonye/handlebars",
-  "version": "1.0.rc.2",
+  "repo": "advanced/handlebars",
+  "version": "1.0.rc.3",
   "description": "Handlebars.js component",
   "keywords": [
     "handlebars"
